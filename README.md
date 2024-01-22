@@ -27,7 +27,6 @@ Hello there! 👋 I'm Delara, a passionate developer interested in a variety of 
 
 - **Databases:**
   - <img src="https://simpleicons.org/icons/mongodb.svg" height="20" /> MongoDB
-  - <img src="https://simpleicons.org/icons/mysql.svg" height="20" /> SQL
   - <img src="https://simpleicons.org/icons/mysql.svg" height="20" /> MySQL
 
 - **Build Tools:**
