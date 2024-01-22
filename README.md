@@ -19,7 +19,7 @@ Hello there! 👋 I'm Delara, a passionate developer interested in a variety of 
   - <img src="https://simpleicons.org/icons/node-js.svg" height="20" /> Node.js
   - <img src="https://simpleicons.org/icons/express.svg" height="20" /> Express.js
   - <img src="https://simpleicons.org/icons/ejs.svg" height="20" /> EJS
-  - <img src="https://simpleicons.org/icons/vue-js" height="20" /> Vue.js
+  - <img src="https://simpleicons.org/icons/vue-js.svg" height="20" /> Vue.js
 
 - **Backend:**
   - <img src="https://simpleicons.org/icons/django.svg" height="20" /> Django
