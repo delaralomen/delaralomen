@@ -7,7 +7,7 @@ Hello there! 👋 I'm Delara, a passionate developer interested in a variety of 
 - **Programming Languages:**
   - <img src="https://simpleicons.org/icons/python.svg" height="20" /> Python
   - <img src="https://simpleicons.org/icons/javascript.svg" height="20" /> JavaScript (ES6+)
-  - <img src="https://simpleicons.org/icons/java.svg" height="20" /> Java
+  - <img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.svg" height="20" /> Java
   - <img src="https://simpleicons.org/icons/c.svg" height="20" /> C
   - <img src="https://simpleicons.org/icons/cplusplus.svg" height="20" /> C++
   - <img src="https://simpleicons.org/icons/latex.svg" height="20" /> LaTeX
