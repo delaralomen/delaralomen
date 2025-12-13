@@ -2,5 +2,5 @@
 
 Hi, Delara here; master's student in Fintech and Computing. The projects below show what that entails.
 
-![top langs](https://raw.githubusercontent.com/delaralomen/github-stats/main/generated/languages.svg)
+![top langs](https://raw.githubusercontent.com/delaralomen/delara-stats/master/generated/languages.svg)
 
