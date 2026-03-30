@@ -4,4 +4,6 @@
   <img src="https://raw.githubusercontent.com/delaralomen/delara-stats/master/generated/languages.svg" width="40%" />
   <img src="https://raw.githubusercontent.com/delaralomen/delara-stats/master/generated/overview.svg" width="40%" />
   </div>
+  
+  check out more about me <a href='https://delaralomen.github.io/delara.com/'>here</a>
 </div>
